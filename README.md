@@ -16,7 +16,7 @@ card are required for image processing on the computer.
 ● Network Networking: In order to connect all of the system's components, a network
 switch and router may be needed.
 
-To run License-plate-detection-of-overspeeding-vehicles.py, follow these steps below:
+<pr>To run License-plate-detection-of-overspeeding-vehicles.py, follow these steps below:<br>
 
 Download IDLE python from this site: 'https://www.python.org/downloads/'
 Install OpenCV and dlib libraries from: 'https://www.learnopencv.com/install-dlib-on-windows/'
