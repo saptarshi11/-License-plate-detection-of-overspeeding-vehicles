@@ -4,7 +4,7 @@ using Deep Learning and Machine Learning Algorithms. After acquisition of series
 trucks are detected using Haar Cascade Classifier. The model for the classifier is trained using lots of positive and negative images to make an XML file.
 This is followed by tracking down the vehicles and estimating their speeds with the help of their respective locations, ppm (pixels per meter) and fps (frames per second).
 Now, the cropped images of the identified trucks are sent for License Plate detection. The CCA (Connected Component Analysis) assists in Number Plate detection and Characters Segmentation.
-The SVC model is trained using characters images (20X20) and to increase the accuracy, 4 cross fold validation (Machine Learning) is also done.
+The SVC model is trained using characters images (20X20) and to increase the accuracy, 4 cross fold validation (Machine Learning) is also done.    
 This model aids in recognizing the segmented characters. 
 Hardware Requirements:
 ● Camera: High-resolution cameras are necessary to take clear pictures of the vehicle
